@@ -4,6 +4,7 @@ This project predicts basketball shot quality using contextual features such as 
 
 ## Dataset
 Primary dataset: NBA Shot Logs (Kaggle)
+Link: https://www.kaggle.com/datasets/dansbecker/nba-shot-logs
 
 ## Week 1
 - Created project repository
