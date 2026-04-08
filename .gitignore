@@ -1,6 +1,22 @@
+# virtual environments
 .venv/
+venv/
+
+# python
 __pycache__/
+*.pyc
+*.pyo
+
+# jupyter
 .ipynb_checkpoints/
+
+# os
 .DS_Store
+Thumbs.db
+
+# data files (too large for git)
 data/raw/*.csv
 data/processed/*.csv
+
+# env files
+.env
